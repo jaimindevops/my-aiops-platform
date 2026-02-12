@@ -49,7 +49,7 @@ spec:
     spec:
       containers:
       - name: go-app
-        image: ghcr.io/jaimindevops/my-ops-platform:latest # We will update this to your Go image later
+        image: jaiminops18/go-app:secure-v1 # We will update this to your Go image later
         imagePullPolicy: Always
         env:
         - name: REDIS_HOST
