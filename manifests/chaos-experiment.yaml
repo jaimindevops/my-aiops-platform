@@ -10,5 +10,3 @@ spec:
   selector:
     labelSelectors:
       'app': 'go-app'
-  scheduler:
-    cron: '@every 2m'
