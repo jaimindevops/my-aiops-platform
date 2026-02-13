@@ -85,7 +85,7 @@ Stateless apps are easy; stateful apps are hard. I built a visitor counter to pr
 
 ### ✅ Evidence 3: AIOps Analysis
 *k8sgpt analyzing a broken pod and suggesting a fix.*
-<img width="507" height="335" alt="image" src="https://github.com/user-attachments/assets/aac6aba1-d69f-45a7-b186-0dbf5569d564" />
+<img width="792" height="502" alt="image" src="https://github.com/user-attachments/assets/8a83a936-98da-44a5-87ae-3074302daa02" />
 
 ### ✅ Evidence 4: Grafana Dashboard
 *On Grafana Dashboard able to view node health and query*
