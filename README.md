@@ -154,8 +154,8 @@ Currently, the system uses **AIOps** (Human-in-the-loop). The next phase involve
 ## 👨‍💻 Author
 
 **Jaimin Sharma**
-* [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/jaimin-sharma/)
-* [GitHub](https://www.google.com/search?q=https://github.com/jaiminops18)
+* [LinkedIn](https://www.linkedin.com/in/jaimin-sharma/)
+* [GitHub](htttps://www.github.com/jaimindevops)
 
 ---
 
