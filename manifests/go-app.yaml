@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-app
-        image: jaiminops18/go-app:secure-v1 # (Or your latest tag)
+        image: jaiminops18/go-app:secure-v1
         imagePullPolicy: Always
         env:
         - name: REDIS_HOST
